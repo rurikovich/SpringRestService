@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<data>
+
+    <buses>
+        <bus>
+            <name>bmv</name>
+            <cost>1000</cost>
+        </bus>
+        <bus>
+            <name>kamaz</name>
+            <cost>2000</cost>
+        </bus>
+        <bus>
+            <name>lada</name>
+            <cost>500</cost>
+        </bus>
+        <bus>
+            <name>topolM</name>
+            <cost>100000</cost>
+        </bus>
+    </buses>
+
+    <users>
+        <user>
+            <login>petr</login>
+            <money>200000</money>
+        </user>
+        <user>
+            <login>ivan</login>
+            <money>300000</money>
+        </user>
+    </users>
+</data>
